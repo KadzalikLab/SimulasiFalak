@@ -6,6 +6,7 @@ Aplikasi ini dibuat untuk membantu teman-teman memahami lebih lanjut ilmu falak/
 ini adalah aplikasi non-profit Opensource dibuat oleh semangat teman-teman grup "Belajar Falak-Hisab". anda pun dapat bebas berkontribusi mengembangkan aplikasi ini.
 harapan kami semoga bisa bermanfa'at bagi siapapun yang menggunakanya. :)
 
+## [Aplikasi Tersedia disini ](https://play.google.com/store/apps/details?id=com.Kadzalik.SimulasiFalak)
 
 
 ## Alat-alat
@@ -38,3 +39,6 @@ https://www.education.com/science-fair/article/barycenter-balancing-point/
 
 https://en.wikipedia.org/wiki/Right_ascension
 https://solarsystem.nasa.gov/basics/chapter2-2/#:~:text=Declination%20(DEC)%20is%20the%20celestial,the%20celestial%20equivalent%20of%20longitude.
+
+#
+[Dapatkan aplikasi dari Kadzalik Lab yang lain disini](https://play.google.com/store/search?q=%22Kadzalik%20Lab%22&c=apps)
