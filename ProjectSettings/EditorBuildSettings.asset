@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuAwal.unity
+    guid: 2bf0de03f010094419db4be549a724e3
+  - enabled: 0
+    path: Assets/Scenes/Orbit.unity
+    guid: e3d370441b3139a4e9b465db73dfc6ed
+  - enabled: 0
+    path: Assets/Scenes/EkliptikaGeo.unity
+    guid: ef299c1a1606c8143bbfb1a81f343f3f
+  - enabled: 0
+    path: Assets/Scenes/Horison.unity
+    guid: 8b07f948e5fee214192ca140b627d732
+  - enabled: 0
+    path: Assets/Scenes/EkliptikaHelio.unity
+    guid: 7bab2e606a9967f45b111c7e7a2e2857
+  - enabled: 0
+    path: Assets/Scenes/Equatorial.unity
+    guid: 6dbae33e83b7fc9428709aea2aa532f6
+  - enabled: 0
+    path: Assets/Scenes/Geosentrik.unity
+    guid: b86832adbe7fd58448e1dc54cc2c3d82
+  - enabled: 1
+    path: Assets/Scenes/TengahHari.unity
+    guid: e907a298fba20b847875b5f53ce18405
+  - enabled: 1
+    path: Assets/Scenes/LitBurBumi.unity
+    guid: 369e9bafead2a134ab4ca4cff4f0dd37
+  - enabled: 1
+    path: Assets/Scenes/InklinasiBulan.unity
+    guid: f72acd56ed335b349a19df0f08203c2b
+  - enabled: 1
+    path: Assets/Scenes/BaryCenter.unity
+    guid: ebe7f99b0c8f2444e80b7fc8eef37b2a
+  - enabled: 1
+    path: Assets/Scenes/RaDec.unity
+    guid: 9c73b8e6041ff764faf9abdf78be3e47
+  m_configObjects: {}
